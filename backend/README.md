@@ -1,7 +1,7 @@
 <h4 align="center">
 <img src="https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true" width="500px" /><br>
 
-# NodeTS Backend
+# Backend
 
 ### HOW TO USE
 
@@ -25,6 +25,9 @@ $ yarn dev:server
     "uuidv4": "^6.1.0"
 
 ### ⇒ Project setting
+- Typescript
+
+- ts-node-dev
 
 - EditorConfig
 
