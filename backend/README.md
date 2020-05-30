@@ -9,7 +9,7 @@
 
 ```jsx
 $ git clone 
-$ cd NodeTs-template
+$ cd backend
 $ yarn
 $ yarn dev:server
 ```
